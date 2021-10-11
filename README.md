@@ -1,5 +1,5 @@
 Python Specialization
-Python Specialization Coursera-Austral University
+Coursera-Austral University
 
 Objetive:
 Understand the basic concepts of programming.
